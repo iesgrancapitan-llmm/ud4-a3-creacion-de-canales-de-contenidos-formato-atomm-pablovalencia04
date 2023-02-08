@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="https://congenial-potato-0f566b37.pages.github.io">
+    <link href="https://congenial-potato-0f566b37.pages.github.io/practica.xml" rel="self" type="application/rss+xml" />
+    <id>urn:uuid:5b70bd1a-bb87-4035-a97e-c584e9800257</id>
+    <title>Fisica 2.0</title>
+    <updated>2021-01-01T02:07:14+00:00</updated>
+    <!-- - Autor y enlace del feed. -->
+    <author>
+        <name>Pablo Valencia</name>
+        <email>a22pavapa@iesgrancapitan.org</email>
+        <uri>19780322</uri>
+    </author>
+    <category term="fisica"/>
+    <!--en este apartado se añaden las propiedades del feed-->
+      <entry>
+        <id>https://congenial-potato-0f566b37.pages.github.io/neutrinos/</id>
+        <title>Colisión de neutrinos y sus consecuencias</title>
+        <link href="https://congenial-potato-0f566b37.pages.github.io/neutrinos" />
+        <author>
+            <name>Pablo Valencia</name>
+        </author>
+        <source>
+            <id>https://congenial-potato-0f566b37.pages.github.io/neutrinos/</id>
+            <title>Colisión de neutrinos y sus consecuencias</title>
+            <updated>2021-01-01T02:07:14+00:00</updated>
+        </source>
+        <summary>Descripción detallada de las interacciones más básicas de los neutrinos</summary>
+        <content type="image/png" src="./portada.png"/>
+        <updated>2021-01-01T02:07:14+00:00</updated>
+      </entry>   
+</feed>
